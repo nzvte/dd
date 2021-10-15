@@ -1,0 +1,7 @@
+motor==2.4.0
+discord.py==1.7.3
+aiohttp==3.7.4.post0
+discord==1.7.3
+dnspython==1.16.0
+requests==2.25.1
+jishaku==2.1.0
